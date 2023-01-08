@@ -1,0 +1,1 @@
+python3 /Users/yolo/Desktop/go_on/python_project/work_tool/test.py
